@@ -1,0 +1,4 @@
+This folder contains example files to include on the setup SDcard for the Family Monitor
+These are the config file, the approriate wifi credentials, email account credentials,
+the four email files and the status file. An example log file is also included but as
+this is created by the unit anyway then it doesn't have to be added to the SDcard manually.

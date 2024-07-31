@@ -1,0 +1,7 @@
+emailaccount1@gmail.com
+emailaccount2@gmail.com
+emailaccount3@yahoo.co.uk
+<
+FamilyAlert no daily contact
+<
+The family alert system has not been triggered during the last 24 hours. Please check, and verify that all is ok.

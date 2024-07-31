@@ -1,0 +1,584 @@
+Tuesday, August 16 2022 17:11:16 Start of new log---Switching
+Tuesday, August 16 2022 17:11:16 Input line = tekyinblack2@gmail.com
+Tuesday, August 16 2022 17:11:16 Recipient 0 = tekyinblack2@gmail.com
+Tuesday, August 16 2022 17:11:16 Input line = tekyinblack@yahoo.co.uk
+Tuesday, August 16 2022 17:11:16 Recipient 1 = tekyinblack@yahoo.co.uk
+Tuesday, August 16 2022 17:11:16 Input line = <
+Tuesday, August 16 2022 17:11:16 Input line = OwenFamilyAlert test email
+Tuesday, August 16 2022 17:11:16 Subject = OwenFamilyAlert test email
+Tuesday, August 16 2022 17:11:16 Input line = <
+Tuesday, August 16 2022 17:11:17 Input line = Weekly test email
+Tuesday, August 16 2022 17:11:17 Text = Weekly test email
+Tuesday, August 16 2022 17:11:17 Input line = 
+Tuesday, August 16 2022 17:11:17 Text = Weekly test email
+Tuesday, August 16 2022 17:11:17 Connecting to SMTP server...
+Tuesday, August 16 2022 17:11:18 
+Tuesday, August 16 2022 17:11:18 SMTP server connected, wait for greeting...
+Tuesday, August 16 2022 17:11:19 
+Tuesday, August 16 2022 17:11:19 Sending greeting response...
+Tuesday, August 16 2022 17:11:19 
+Tuesday, August 16 2022 17:11:19 Logging in...
+Tuesday, August 16 2022 17:11:19 
+Tuesday, August 16 2022 17:11:19 Sending Email...
+Tuesday, August 16 2022 17:11:19 
+Tuesday, August 16 2022 17:11:19 Sending message header...
+Tuesday, August 16 2022 17:11:19 
+Tuesday, August 16 2022 17:11:19 Sending message body...
+Tuesday, August 16 2022 17:11:17 
+Tuesday, August 16 2022 17:11:17 Sending attachments...
+Tuesday, August 16 2022 17:11:17 logold.txt
+Tuesday, August 16 2022 17:11:17 Error, file I/O error
+Tuesday, August 16 2022 17:11:17 
+Tuesday, August 16 2022 17:11:17 Finishing the message sending...
+Tuesday, August 16 2022 17:11:17 
+Tuesday, August 16 2022 17:11:17 Closing the session...
+Tuesday, August 16 2022 17:11:17 
+Tuesday, August 16 2022 17:11:17 Message sent successfully
+Tuesday, August 16 2022 17:11:17 
+Tuesday, August 16 2022 17:11:17 Message sent success: 1
+Tuesday, August 16 2022 17:11:17 Message sent failed: 0
+Tuesday, August 16 2022 17:11:17 Sent Test Email
+Tuesday, August 16 2022 17:11:17 Next test email will be sent Sunday, August 21 2022 12:00:00
+Tuesday, August 16 2022 17:11:17 Status written
+Tuesday, August 16 2022 17:11:49 PIR ON
+Tuesday, August 16 2022 17:11:53 PIR OFF 
+Tuesday, August 16 2022 17:13:04 PIR ON
+Tuesday, August 16 2022 17:13:06 PIR OFF 
+Tuesday, August 16 2022 17:13:11 PIR ON
+Tuesday, August 16 2022 17:13:14 PIR OFF 
+Tuesday, August 16 2022 17:13:54 PIR ON
+Tuesday, August 16 2022 17:13:54 Alert time updated to Tuesday, August 16 2022 23:13:54
+Tuesday, August 16 2022 17:13:55 PIR OFF 
+Tuesday, August 16 2022 17:13:59 PIR ON
+Tuesday, August 16 2022 17:14:03 PIR OFF 
+Tuesday, August 16 2022 17:14:14 PIR ON
+Tuesday, August 16 2022 17:14:14 Alert time updated to Tuesday, August 16 2022 23:14:14
+Tuesday, August 16 2022 17:14:16 PIR OFF 
+Tuesday, August 16 2022 17:14:27 PIR ON
+Tuesday, August 16 2022 17:14:32 PIR OFF 
+Tuesday, August 16 2022 17:14:36 PIR ON
+Tuesday, August 16 2022 17:14:36 Alert time updated to Tuesday, August 16 2022 23:14:36
+Tuesday, August 16 2022 17:14:41 PIR OFF 
+Tuesday, August 16 2022 17:15:08 PIR ON
+Tuesday, August 16 2022 17:15:11 PIR OFF 
+Tuesday, August 16 2022 17:15:19 PIR ON
+Tuesday, August 16 2022 17:15:19 Alert time updated to Tuesday, August 16 2022 23:15:19
+Tuesday, August 16 2022 17:15:23 PIR OFF 
+Tuesday, August 16 2022 17:15:56 PIR ON
+Tuesday, August 16 2022 17:15:58 PIR OFF 
+Tuesday, August 16 2022 17:16:03 PIR ON
+Tuesday, August 16 2022 17:16:03 Alert time updated to Tuesday, August 16 2022 23:16:03
+Tuesday, August 16 2022 17:16:06 PIR OFF 
+Tuesday, August 16 2022 17:16:10 PIR ON
+Tuesday, August 16 2022 17:16:14 PIR OFF 
+Tuesday, August 16 2022 17:16:35 PIR ON
+Tuesday, August 16 2022 17:16:35 Alert time updated to Tuesday, August 16 2022 23:16:35
+Tuesday, August 16 2022 17:16:39 PIR OFF 
+Tuesday, August 16 2022 17:16:44 PIR ON
+Tuesday, August 16 2022 17:16:45 PIR OFF 
+Tuesday, August 16 2022 17:16:55 PIR ON
+Tuesday, August 16 2022 17:16:55 Alert time updated to Tuesday, August 16 2022 23:16:55
+Tuesday, August 16 2022 17:16:57 PIR OFF 
+Tuesday, August 16 2022 17:17:03 PIR ON
+Tuesday, August 16 2022 17:17:04 PIR OFF 
+Tuesday, August 16 2022 17:17:19 PIR ON
+Tuesday, August 16 2022 17:17:19 Alert time updated to Tuesday, August 16 2022 23:17:19
+Tuesday, August 16 2022 17:17:20 PIR OFF 
+Tuesday, August 16 2022 17:17:28 PIR ON
+Tuesday, August 16 2022 17:17:30 PIR OFF 
+Tuesday, August 16 2022 17:17:49 PIR ON
+Tuesday, August 16 2022 17:17:49 Alert time updated to Tuesday, August 16 2022 23:17:49
+Tuesday, August 16 2022 17:17:56 PIR OFF 
+Tuesday, August 16 2022 17:18:01 PIR ON
+Tuesday, August 16 2022 17:18:09 PIR OFF 
+Tuesday, August 16 2022 17:18:28 PIR ON
+Tuesday, August 16 2022 17:18:28 Alert time updated to Tuesday, August 16 2022 23:18:28
+Tuesday, August 16 2022 17:18:30 PIR OFF 
+Tuesday, August 16 2022 17:18:35 PIR ON
+Tuesday, August 16 2022 17:18:38 PIR OFF 
+Tuesday, August 16 2022 17:19:04 PIR ON
+Tuesday, August 16 2022 17:19:04 Alert time updated to Tuesday, August 16 2022 23:19:04
+Tuesday, August 16 2022 17:19:06 PIR OFF 
+Tuesday, August 16 2022 17:19:11 PIR ON
+Tuesday, August 16 2022 17:19:13 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:19:13
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 1000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:19:39 Time Set
+Tuesday, August 16 2022 17:19:39 Time Set
+Tuesday, August 16 2022 17:19:39 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:19:39 Next test email will be sent Sunday, August 21 2022 12:00:00
+Tuesday, August 16 2022 17:19:40 Status written
+Tuesday, August 16 2022 17:20:02 PIR ON
+Tuesday, August 16 2022 17:20:04 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:19:13
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 1000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:23:23 Time Set
+Tuesday, August 16 2022 17:23:23 Time Set
+Tuesday, August 16 2022 17:23:23 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:23:23 Next test email will be sent Sunday, August 21 2022 12:00:00
+Tuesday, August 16 2022 17:23:23 Status written
+Tuesday, August 16 2022 17:23:29 PIR ON
+Tuesday, August 16 2022 17:23:31 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:19:13
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 1000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:24:08 Time Set
+Tuesday, August 16 2022 17:24:08 Time Set
+Tuesday, August 16 2022 17:24:08 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:24:08 Next test email will be sent Sunday, August 21 2022 12:00:00
+Tuesday, August 16 2022 17:24:08 Status written
+Tuesday, August 16 2022 17:24:11 PIR ON
+Tuesday, August 16 2022 17:24:12 PIR OFF 
+Tuesday, August 16 2022 17:24:17 PIR ON
+Tuesday, August 16 2022 17:24:20 PIR OFF 
+Tuesday, August 16 2022 17:24:28 PIR ON
+Tuesday, August 16 2022 17:24:28 Alert time updated to Tuesday, August 16 2022 23:24:28
+Tuesday, August 16 2022 17:24:30 PIR OFF 
+Tuesday, August 16 2022 17:24:54 PIR ON
+Tuesday, August 16 2022 17:24:57 PIR OFF 
+Tuesday, August 16 2022 17:25:02 PIR ON
+Tuesday, August 16 2022 17:25:02 Alert time updated to Tuesday, August 16 2022 23:25:02
+Tuesday, August 16 2022 17:25:07 PIR OFF 
+Tuesday, August 16 2022 17:25:18 PIR ON
+Tuesday, August 16 2022 17:25:20 PIR OFF 
+Tuesday, August 16 2022 17:25:27 PIR ON
+Tuesday, August 16 2022 17:25:27 Alert time updated to Tuesday, August 16 2022 23:25:27
+Tuesday, August 16 2022 17:25:28 PIR OFF 
+Tuesday, August 16 2022 17:26:27 PIR ON
+Tuesday, August 16 2022 17:26:30 PIR OFF 
+Tuesday, August 16 2022 17:26:58 PIR ON
+Tuesday, August 16 2022 17:26:59 PIR OFF 
+Tuesday, August 16 2022 17:27:04 PIR ON
+Tuesday, August 16 2022 17:27:04 Alert time updated to Tuesday, August 16 2022 23:27:04
+Tuesday, August 16 2022 17:27:06 PIR OFF 
+Tuesday, August 16 2022 17:27:16 PIR ON
+Tuesday, August 16 2022 17:27:17 PIR OFF 
+Tuesday, August 16 2022 17:27:23 PIR ON
+Tuesday, August 16 2022 17:27:23 Alert time updated to Tuesday, August 16 2022 23:27:23
+Tuesday, August 16 2022 17:27:24 PIR OFF 
+Tuesday, August 16 2022 17:27:29 PIR ON
+Tuesday, August 16 2022 17:27:31 PIR OFF 
+Tuesday, August 16 2022 17:27:36 PIR ON
+Tuesday, August 16 2022 17:27:36 Alert time updated to Tuesday, August 16 2022 23:27:36
+Tuesday, August 16 2022 17:27:39 PIR OFF 
+Tuesday, August 16 2022 17:28:13 PIR ON
+Tuesday, August 16 2022 17:28:14 PIR OFF 
+Tuesday, August 16 2022 17:29:09 PIR ON
+Tuesday, August 16 2022 17:29:10 PIR OFF 
+Tuesday, August 16 2022 17:29:15 PIR ON
+Tuesday, August 16 2022 17:29:17 PIR OFF 
+Tuesday, August 16 2022 17:29:23 PIR ON
+Tuesday, August 16 2022 17:29:23 Alert time updated to Tuesday, August 16 2022 23:29:23
+Tuesday, August 16 2022 17:29:26 PIR OFF 
+Tuesday, August 16 2022 17:29:34 PIR ON
+Tuesday, August 16 2022 17:29:38 PIR OFF 
+Tuesday, August 16 2022 17:30:09 PIR ON
+Tuesday, August 16 2022 17:30:09 Alert time updated to Tuesday, August 16 2022 23:30:09
+Tuesday, August 16 2022 17:30:13 PIR OFF 
+Tuesday, August 16 2022 17:30:22 PIR ON
+Tuesday, August 16 2022 17:30:24 PIR OFF 
+Tuesday, August 16 2022 17:30:31 PIR ON
+Tuesday, August 16 2022 17:30:31 Alert time updated to Tuesday, August 16 2022 23:30:31
+Tuesday, August 16 2022 17:30:35 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:30:35
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:09 Failed to obtain time
+Tuesday, August 16 2022 17:31:07 Time Set
+Tuesday, August 16 2022 17:31:07 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:31:07 Next test email will be sent Saturday, August 20 2022 12:00:00
+Tuesday, August 16 2022 17:31:08 Status written
+Tuesday, August 16 2022 17:32:33 PIR ON
+Tuesday, August 16 2022 17:32:36 PIR OFF 
+Tuesday, August 16 2022 17:32:49 PIR ON
+Tuesday, August 16 2022 17:32:53 PIR OFF 
+Tuesday, August 16 2022 17:33:47 PIR ON
+Tuesday, August 16 2022 17:33:49 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:30:35
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:09 Failed to obtain time
+Thursday, January 01 1970 00:00:14 Failed to obtain time
+Thursday, January 01 1970 00:00:24 Failed to obtain time
+Thursday, January 01 1970 00:00:33 Failed to obtain time
+Tuesday, August 16 2022 17:36:18 Time Set
+Tuesday, August 16 2022 17:36:18 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:36:18 Next test email will be sent Saturday, August 20 2022 12:00:00
+Tuesday, August 16 2022 17:36:18 Status written
+Tuesday, August 16 2022 17:36:25 PIR ON
+Tuesday, August 16 2022 17:36:26 PIR OFF 
+Tuesday, August 16 2022 17:36:31 PIR ON
+Tuesday, August 16 2022 17:36:35 PIR OFF 
+Tuesday, August 16 2022 17:36:51 PIR ON
+Tuesday, August 16 2022 17:36:51 Alert time updated to Tuesday, August 16 2022 23:36:51
+Tuesday, August 16 2022 17:36:54 PIR OFF 
+Tuesday, August 16 2022 17:37:17 PIR ON
+Tuesday, August 16 2022 17:37:21 PIR OFF 
+Tuesday, August 16 2022 17:37:27 PIR ON
+Tuesday, August 16 2022 17:37:27 Alert time updated to Tuesday, August 16 2022 23:37:27
+Tuesday, August 16 2022 17:37:28 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:37:21
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 0000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:37:46 Time Set
+Tuesday, August 16 2022 17:37:46 Time Set
+Tuesday, August 16 2022 17:37:46 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:37:46 Test emails will not be scheduled
+Tuesday, August 16 2022 17:37:46 Status written
+Tuesday, August 16 2022 17:37:53 PIR ON
+Tuesday, August 16 2022 17:37:56 PIR OFF 
+Tuesday, August 16 2022 17:38:00 PIR ON
+Tuesday, August 16 2022 17:38:01 PIR OFF 
+Tuesday, August 16 2022 17:38:07 PIR ON
+Tuesday, August 16 2022 17:38:07 Alert time updated to Tuesday, August 16 2022 23:38:07
+Tuesday, August 16 2022 17:38:08 PIR OFF 
+Tuesday, August 16 2022 17:38:13 PIR ON
+Tuesday, August 16 2022 17:38:15 PIR OFF 
+Tuesday, August 16 2022 17:38:29 PIR ON
+Tuesday, August 16 2022 17:38:29 Alert time updated to Tuesday, August 16 2022 23:38:29
+Tuesday, August 16 2022 17:38:30 PIR OFF 
+Tuesday, August 16 2022 17:39:25 PIR ON
+Tuesday, August 16 2022 17:39:26 PIR OFF 
+Tuesday, August 16 2022 17:39:31 PIR ON
+Tuesday, August 16 2022 17:39:34 PIR OFF 
+Tuesday, August 16 2022 17:40:10 PIR ON
+Tuesday, August 16 2022 17:40:12 PIR OFF 
+Tuesday, August 16 2022 17:40:17 PIR ON
+Tuesday, August 16 2022 17:40:17 Alert time updated to Tuesday, August 16 2022 23:40:17
+Tuesday, August 16 2022 17:40:18 PIR OFF 
+Tuesday, August 16 2022 17:40:28 PIR ON
+Tuesday, August 16 2022 17:40:29 PIR OFF 
+Tuesday, August 16 2022 17:41:01 PIR ON
+Tuesday, August 16 2022 17:41:01 Alert time updated to Tuesday, August 16 2022 23:41:01
+Tuesday, August 16 2022 17:41:02 PIR OFF 
+Tuesday, August 16 2022 17:41:06 PIR ON
+Tuesday, August 16 2022 17:41:10 PIR OFF 
+Tuesday, August 16 2022 17:41:27 PIR ON
+Tuesday, August 16 2022 17:41:27 Alert time updated to Tuesday, August 16 2022 23:41:27
+Tuesday, August 16 2022 17:41:32 PIR OFF 
+Tuesday, August 16 2022 17:41:41 PIR ON
+Tuesday, August 16 2022 17:41:42 PIR OFF 
+Tuesday, August 16 2022 17:41:57 PIR ON
+Tuesday, August 16 2022 17:41:57 Alert time updated to Tuesday, August 16 2022 23:41:57
+Tuesday, August 16 2022 17:41:59 PIR OFF 
+Tuesday, August 16 2022 17:42:04 PIR ON
+Tuesday, August 16 2022 17:42:08 PIR OFF 
+Tuesday, August 16 2022 17:42:26 PIR ON
+Tuesday, August 16 2022 17:42:26 Alert time updated to Tuesday, August 16 2022 23:42:26
+Tuesday, August 16 2022 17:42:27 PIR OFF 
+Tuesday, August 16 2022 17:42:32 PIR ON
+Tuesday, August 16 2022 17:42:33 PIR OFF 
+Tuesday, August 16 2022 17:42:37 PIR ON
+Tuesday, August 16 2022 17:42:37 Alert time updated to Tuesday, August 16 2022 23:42:37
+Tuesday, August 16 2022 17:42:40 PIR OFF 
+Tuesday, August 16 2022 17:43:21 PIR ON
+Tuesday, August 16 2022 17:43:23 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:37:21
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 0000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:44:37 Time Set
+Tuesday, August 16 2022 17:44:37 Time Set
+Tuesday, August 16 2022 17:44:37 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:44:37 Test emails will not be scheduled
+Tuesday, August 16 2022 17:44:37 Status written
+Tuesday, August 16 2022 17:44:41 PIR ON
+Tuesday, August 16 2022 17:44:42 PIR OFF 
+Tuesday, August 16 2022 17:45:14 PIR ON
+Tuesday, August 16 2022 17:45:15 PIR OFF 
+Tuesday, August 16 2022 17:45:21 PIR ON
+Tuesday, August 16 2022 17:45:21 Alert time updated to Tuesday, August 16 2022 23:45:21
+Tuesday, August 16 2022 17:45:22 PIR OFF 
+Tuesday, August 16 2022 17:45:32 PIR ON
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert029\FamilyAlert029.ino Aug 16 2022 17:45:24
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 0000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
+Thursday, January 01 1970 00:00:05 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:46:03 Time Set
+Tuesday, August 16 2022 17:46:03 Time Set
+Tuesday, August 16 2022 17:46:03 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:46:03 Test emails will not be scheduled
+Tuesday, August 16 2022 17:46:03 Status written
+Tuesday, August 16 2022 17:46:07 PIR ON
+Tuesday, August 16 2022 17:46:09 PIR OFF 
+Tuesday, August 16 2022 17:47:09 PIR ON
+Tuesday, August 16 2022 17:47:13 PIR OFF 
+Tuesday, August 16 2022 17:47:19 PIR ON
+Tuesday, August 16 2022 17:47:22 PIR OFF 
+Tuesday, August 16 2022 17:48:01 PIR ON
+Tuesday, August 16 2022 17:48:01 Alert time updated to Tuesday, August 16 2022 23:48:01
+Tuesday, August 16 2022 17:48:03 PIR OFF 
+Tuesday, August 16 2022 17:49:25 PIR ON
+Tuesday, August 16 2022 17:49:28 PIR OFF 
+Tuesday, August 16 2022 17:49:43 PIR ON
+Tuesday, August 16 2022 17:49:47 PIR OFF 
+Tuesday, August 16 2022 17:49:55 PIR ON
+Tuesday, August 16 2022 17:49:55 Alert time updated to Tuesday, August 16 2022 23:49:55
+Tuesday, August 16 2022 17:49:56 PIR OFF 
+Tuesday, August 16 2022 17:50:02 PIR ON
+Tuesday, August 16 2022 17:50:08 PIR OFF 
+Tuesday, August 16 2022 17:50:57 PIR ON
+Tuesday, August 16 2022 17:51:00 PIR OFF 
+Tuesday, August 16 2022 17:51:09 PIR ON
+Tuesday, August 16 2022 17:51:10 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert030\FamilyAlert030.ino Aug 16 2022 17:54:40
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 0000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:55:40 Time Set
+Tuesday, August 16 2022 17:55:40 Time Set
+Tuesday, August 16 2022 17:55:40 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:55:40 Test emails will not be scheduled
+Tuesday, August 16 2022 17:55:40 Status written
+Tuesday, August 16 2022 17:55:40 PIR ON
+Tuesday, August 16 2022 17:55:41 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert030\FamilyAlert030.ino Aug 16 2022 17:54:40
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 0000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 17:56:16 Time Set
+Tuesday, August 16 2022 17:56:16 Time Set
+Tuesday, August 16 2022 17:56:16 Alert time set to Tuesday, August 16 2022 23:02:25
+Tuesday, August 16 2022 17:56:16 Test emails will not be scheduled
+Tuesday, August 16 2022 17:56:16 Status written
+Tuesday, August 16 2022 17:59:45 PIR ON
+Tuesday, August 16 2022 17:59:46 PIR OFF 
+Tuesday, August 16 2022 18:01:20 Input line = tekyinblack2@gmail.com
+Tuesday, August 16 2022 18:01:20 Recipient 0 = tekyinblack2@gmail.com
+Tuesday, August 16 2022 18:01:20 Input line = <
+Tuesday, August 16 2022 18:01:20 Input line = Verify email
+Tuesday, August 16 2022 18:01:20 Subject = Verify email
+Tuesday, August 16 2022 18:01:20 Input line = <
+Tuesday, August 16 2022 18:01:20 Input line = The alert system has powered on and is working
+Tuesday, August 16 2022 18:01:20 Text = The alert system has powered on and is working
+Tuesday, August 16 2022 18:01:20 Input line = 
+Tuesday, August 16 2022 18:01:20 Text = The alert system has powered on and is working
+Tuesday, August 16 2022 18:01:20 Connecting to SMTP server...
+Tuesday, August 16 2022 18:01:21 
+Tuesday, August 16 2022 18:01:21 SMTP server connected, wait for greeting...
+Tuesday, August 16 2022 18:01:21 
+Tuesday, August 16 2022 18:01:21 Sending greeting response...
+Tuesday, August 16 2022 18:01:21 
+Tuesday, August 16 2022 18:01:21 Logging in...
+Tuesday, August 16 2022 18:01:22 
+Tuesday, August 16 2022 18:01:22 Sending Email...
+Tuesday, August 16 2022 18:01:22 
+Tuesday, August 16 2022 18:01:22 Sending message header...
+Tuesday, August 16 2022 18:01:22 
+Tuesday, August 16 2022 18:01:22 Sending message body...
+Tuesday, August 16 2022 18:01:20 
+Tuesday, August 16 2022 18:01:20 Sending attachments...
+Tuesday, August 16 2022 18:01:20 log.txt
+Tuesday, August 16 2022 18:01:20 Error, file I/O error
+Tuesday, August 16 2022 18:01:20 
+Tuesday, August 16 2022 18:01:20 Finishing the message sending...
+Tuesday, August 16 2022 18:01:20 
+Tuesday, August 16 2022 18:01:20 Closing the session...
+Tuesday, August 16 2022 18:01:20 
+Tuesday, August 16 2022 18:01:20 Message sent successfully
+Tuesday, August 16 2022 18:01:20 
+Tuesday, August 16 2022 18:01:20 Message sent success: 1
+Tuesday, August 16 2022 18:01:20 Message sent failed: 0
+Tuesday, August 16 2022 18:01:20 Sent Verification Email
+Tuesday, August 16 2022 18:07:45 PIR ON
+Tuesday, August 16 2022 18:07:49 PIR OFF 
+Tuesday, August 16 2022 18:07:53 PIR ON
+Tuesday, August 16 2022 18:07:55 PIR OFF 
+Tuesday, August 16 2022 18:08:00 PIR ON
+Tuesday, August 16 2022 18:08:00 Alert time updated to Wednesday, August 17 2022 00:08:00
+Tuesday, August 16 2022 18:08:01 PIR OFF 
+Tuesday, August 16 2022 18:11:17 Status written
+Tuesday, August 16 2022 18:26:18 Status written
+Tuesday, August 16 2022 18:36:56 PIR ON
+Tuesday, August 16 2022 18:36:59 PIR OFF 
+Tuesday, August 16 2022 18:37:03 PIR ON
+Tuesday, August 16 2022 18:37:05 PIR OFF 
+Tuesday, August 16 2022 18:39:14 PIR ON
+Tuesday, August 16 2022 18:39:17 PIR OFF 
+Tuesday, August 16 2022 18:39:59 PIR ON
+Tuesday, August 16 2022 18:40:00 PIR OFF 
+Tuesday, August 16 2022 18:40:05 PIR ON
+Tuesday, August 16 2022 18:40:05 Alert time updated to Wednesday, August 17 2022 00:40:05
+Tuesday, August 16 2022 18:40:07 PIR OFF 
+Tuesday, August 16 2022 18:41:16 PIR ON
+Tuesday, August 16 2022 18:41:19 Status written
+Tuesday, August 16 2022 18:41:19 PIR OFF 
+Tuesday, August 16 2022 18:41:25 PIR ON
+Tuesday, August 16 2022 18:41:26 PIR OFF 
+Thursday, January 01 1970 00:00:01 Monitor starting
+Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert030\FamilyAlert030.ino Aug 16 2022 18:41:26
+Thursday, January 01 1970 00:00:01 Dadmonitor
+Thursday, January 01 1970 00:00:01 /website
+Thursday, January 01 1970 00:00:01 /wifi.txt
+Thursday, January 01 1970 00:00:01 /email.txt
+Thursday, January 01 1970 00:00:01 /verifyemail.txt
+Thursday, January 01 1970 00:00:01 /testemail.txt
+Thursday, January 01 1970 00:00:01 /alertemail.txt
+Thursday, January 01 1970 00:00:01 /returnemail.txt
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 21600
+Thursday, January 01 1970 00:00:01 900
+Thursday, January 01 1970 00:00:01 2
+Thursday, January 01 1970 00:00:01 7
+Thursday, January 01 1970 00:00:01 11
+Thursday, January 01 1970 00:00:01 0000000
+Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Tuesday, August 16 2022 18:41:51 Time Set
+Tuesday, August 16 2022 18:41:51 Time Set
+Tuesday, August 16 2022 18:41:51 Alert time set to Wednesday, August 17 2022 00:40:05
+Tuesday, August 16 2022 18:41:51 Test emails will not be scheduled
+Tuesday, August 16 2022 18:41:51 Status written
+Tuesday, August 16 2022 18:41:52 PIR ON
+Tuesday, August 16 2022 18:41:53 PIR OFF 
+Tuesday, August 16 2022 18:43:23 PIR ON
+Tuesday, August 16 2022 18:43:25 PIR OFF 
+Tuesday, August 16 2022 18:43:48 PIR ON

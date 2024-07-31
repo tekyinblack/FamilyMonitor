@@ -1,0 +1,15 @@
+FamilyMonitor	     <---Hostname
+/website               <---directory holding website
+/wifi.txt              <---wifi connection information
+/email.txt             <---email connection information
+/verifyemail.txt       <---text and contact details of verification email
+/testemail.txt         <---text and contact details of weekly test email
+/alertemail.txt        <---text and contact details of alert email
+/returnemail.txt       <---text and contact details of return email
+24                    <---hours after last contact alert email sent
+6                     <---power cut timer, time after which switch off assumed
+15                    <---last contact logging timer
+2			    <---Logging level, 0-Off, 1-Admin, 2-complete
+7                     <---morning timer, start of morning period, 0 indicates do not use
+7                     <---morning timer, end specified, time before which contact must be triggered
+1234567		    <---days of week to send log files in test emails, 7 characters long, 0 indicates do not send log, Sunday-Saturday

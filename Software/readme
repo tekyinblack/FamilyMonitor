@@ -1,2 +1,25 @@
 This folder copntains the software files for the Family Monitor
 It has to be paired with the appropritae hardware and SD card contents
+
+Software outline
+
+Setup Routine
+Initialise output and input pins
+Initialise serial output
+Setup SD card – initiate flashing error message if SD card fails
+Read the SD card for config details, wifi and email accounts
+Connect to wifi – the routine will wait indefinitely until connection established
+Set the RTC time – the routine will wait indefinitely until time successfully updated
+The alert time is set, using the last saved time if current
+The next test email time is set
+
+Main loop
+The RTC is read for the current time to be used in this loop execution
+The status of the wifi is checked and the LED status lamp updated
+A check is made if the wifi needs to be reconnected and attempts are made to do so 
+A timed check is made on whether the  email sent LED sent should be extinguished.
+The status of the PIR is read 
+A check is made as to whether the Alert Timer has expired and an email sent if it has
+A check is made if it is time to send the weekly test email and send if it is
+A check is made if the email push button has been pressed for long enough and if so, send an email
+Every 15 minutes, the current alert time and status is saved to the SD card

@@ -1,11 +1,11 @@
 Tuesday, August 16 2022 17:11:16 Start of new log---Switching
-Tuesday, August 16 2022 17:11:16 Input line = tekyinblack2@gmail.com
-Tuesday, August 16 2022 17:11:16 Recipient 0 = tekyinblack2@gmail.com
-Tuesday, August 16 2022 17:11:16 Input line = tekyinblack@yahoo.co.uk
-Tuesday, August 16 2022 17:11:16 Recipient 1 = tekyinblack@yahoo.co.uk
+Tuesday, August 16 2022 17:11:16 Input line = testemail2@gmail.com
+Tuesday, August 16 2022 17:11:16 Recipient 0 = testemail2@gmail.com
+Tuesday, August 16 2022 17:11:16 Input line = testemail@yahoo.co.uk
+Tuesday, August 16 2022 17:11:16 Recipient 1 = testemail@yahoo.co.uk
 Tuesday, August 16 2022 17:11:16 Input line = <
-Tuesday, August 16 2022 17:11:16 Input line = OwenFamilyAlert test email
-Tuesday, August 16 2022 17:11:16 Subject = OwenFamilyAlert test email
+Tuesday, August 16 2022 17:11:16 Input line = TekyFamilyAlert test email
+Tuesday, August 16 2022 17:11:16 Subject = TekyFamilyAlert test email
 Tuesday, August 16 2022 17:11:16 Input line = <
 Tuesday, August 16 2022 17:11:17 Input line = Weekly test email
 Tuesday, August 16 2022 17:11:17 Text = Weekly test email
@@ -117,8 +117,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 1000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:19:39 Time Set
 Tuesday, August 16 2022 17:19:39 Time Set
 Tuesday, August 16 2022 17:19:39 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -142,8 +142,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 1000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:23:23 Time Set
 Tuesday, August 16 2022 17:23:23 Time Set
 Tuesday, August 16 2022 17:23:23 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -167,8 +167,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 1000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:24:08 Time Set
 Tuesday, August 16 2022 17:24:08 Time Set
 Tuesday, August 16 2022 17:24:08 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -243,8 +243,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Thursday, January 01 1970 00:00:09 Failed to obtain time
 Tuesday, August 16 2022 17:31:07 Time Set
 Tuesday, August 16 2022 17:31:07 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -272,8 +272,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Thursday, January 01 1970 00:00:09 Failed to obtain time
 Thursday, January 01 1970 00:00:14 Failed to obtain time
 Thursday, January 01 1970 00:00:24 Failed to obtain time
@@ -310,8 +310,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 0000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:37:46 Time Set
 Tuesday, August 16 2022 17:37:46 Time Set
 Tuesday, August 16 2022 17:37:46 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -381,8 +381,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 0000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as FamilyMonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:44:37 Time Set
 Tuesday, August 16 2022 17:44:37 Time Set
 Tuesday, August 16 2022 17:44:37 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -412,8 +412,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 0000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
-Thursday, January 01 1970 00:00:05 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:05 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:46:03 Time Set
 Tuesday, August 16 2022 17:46:03 Time Set
 Tuesday, August 16 2022 17:46:03 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -457,8 +457,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 0000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:55:40 Time Set
 Tuesday, August 16 2022 17:55:40 Time Set
 Tuesday, August 16 2022 17:55:40 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -482,8 +482,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 0000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 17:56:16 Time Set
 Tuesday, August 16 2022 17:56:16 Time Set
 Tuesday, August 16 2022 17:56:16 Alert time set to Tuesday, August 16 2022 23:02:25
@@ -491,8 +491,8 @@ Tuesday, August 16 2022 17:56:16 Test emails will not be scheduled
 Tuesday, August 16 2022 17:56:16 Status written
 Tuesday, August 16 2022 17:59:45 PIR ON
 Tuesday, August 16 2022 17:59:46 PIR OFF 
-Tuesday, August 16 2022 18:01:20 Input line = tekyinblack2@gmail.com
-Tuesday, August 16 2022 18:01:20 Recipient 0 = tekyinblack2@gmail.com
+Tuesday, August 16 2022 18:01:20 Input line = testemail2@gmail.com
+Tuesday, August 16 2022 18:01:20 Recipient 0 = testemail2@gmail.com
 Tuesday, August 16 2022 18:01:20 Input line = <
 Tuesday, August 16 2022 18:01:20 Input line = Verify email
 Tuesday, August 16 2022 18:01:20 Subject = Verify email
@@ -555,7 +555,7 @@ Tuesday, August 16 2022 18:41:25 PIR ON
 Tuesday, August 16 2022 18:41:26 PIR OFF 
 Thursday, January 01 1970 00:00:01 Monitor starting
 Thursday, January 01 1970 00:00:01 C:\Users\tekyi\Documents\Arduino\FamilyAlert030\FamilyAlert030.ino Aug 16 2022 18:41:26
-Thursday, January 01 1970 00:00:01 Dadmonitor
+Thursday, January 01 1970 00:00:01 FamilyMonitor
 Thursday, January 01 1970 00:00:01 /website
 Thursday, January 01 1970 00:00:01 /wifi.txt
 Thursday, January 01 1970 00:00:01 /email.txt
@@ -570,8 +570,8 @@ Thursday, January 01 1970 00:00:01 2
 Thursday, January 01 1970 00:00:01 7
 Thursday, January 01 1970 00:00:01 11
 Thursday, January 01 1970 00:00:01 0000000
-Thursday, January 01 1970 00:00:01 Connecting to SSID SKYBC4E3 as Dadmonitor
-Thursday, January 01 1970 00:00:04 WiFi connected to SSID SKYBC4E3 IP address: 192.168.1.155
+Thursday, January 01 1970 00:00:01 Connecting to SSID TESTSSID as FamilyMonitor
+Thursday, January 01 1970 00:00:04 WiFi connected to SSID TESTSSID IP address: 192.168.1.155
 Tuesday, August 16 2022 18:41:51 Time Set
 Tuesday, August 16 2022 18:41:51 Time Set
 Tuesday, August 16 2022 18:41:51 Alert time set to Wednesday, August 17 2022 00:40:05
